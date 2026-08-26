@@ -4,7 +4,7 @@
 1. mia is a high school student
    1. Wake Early College of Information and Biotechnologies
    2. which then goes with Wake Technical Community College
-2. she is a september baby ***best month ever by the way***
+2. she is a september baby (***best month ever by the way***)
 3. she plays guitar *(kinda badly though)*
 4. she is deteminded *most of the time*...
 
@@ -28,5 +28,5 @@ mia is...
 ### her letterboxd
 *not super active, i suck at watching shows/films*
 
-![mia's letterboxd](letterboxd ss.png)
+! [mia's letterboxd] (letterboxd ss.png)
 
