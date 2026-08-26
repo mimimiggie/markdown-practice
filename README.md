@@ -29,3 +29,5 @@ mia is...
 *not super active, i __suck__ at watching shows/films*
 ![mia's letterboxd](./letterboxd-ss.png)
 
+### her spotify
+[mia's amazing spotify](https://open.spotify.com/user/313e6ief63uprdjensmxhmhvnvdu?si=761eb6e031c144b9)
