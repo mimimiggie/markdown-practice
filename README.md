@@ -39,3 +39,11 @@ mia is...
 [mia's amazing spotify](https://open.spotify.com/user/313e6ief63uprdjensmxhmhvnvdu?si=761eb6e031c144b9)  
 if you like, then thank you!!  
 if you don't, just don't say a word... *shush*
+
+### things she likes
+|  music  |  shows  |  films  |  genres  |
+|:--------|:--------|:--------|:---------|
+|skz      |tbhk     |cots     |k-pop     |
+|bea      |cbbp     |little w |indie     |
+|aespa    |mlp      |lego bm  |jazz      |
+
