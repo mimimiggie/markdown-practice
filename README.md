@@ -43,7 +43,7 @@ if you don't, just don't say a word... *shush*
 ### things she likes
 |  music  |  shows  |  films  |  genres  |
 |:--------|:--------|:--------|:---------|
-|skz      |tbhk     |cots     |k-pop     |
-|bea      |cbbp     |little w |indie     |
-|aespa    |mlp      |lego bm  |jazz      |
+|stray kids      |toilet bound hanako kun     |children of the sea     |k-pop     |
+|beabadoobee      |cowboy bebop     |little women |indie     |
+|aespa    |my little pony      |lego batman  |jazz      |
 
