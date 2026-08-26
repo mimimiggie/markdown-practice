@@ -17,11 +17,11 @@ mia is...
 - a stalker (just to friends)
 
 ### what do you share in common with her?
-- [] a girl
-- [] a penguin lover
-- [] a music lover
-- [] a writer (occasionally)
-- [] a stalker (just to friends)
+- [ ] a girl
+- [ ] a penguin lover
+- [ ] a music lover
+- [ ] a writer (occasionally)
+- [ ] a stalker (just to friends)
   
 # things of mia
 
