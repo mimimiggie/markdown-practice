@@ -5,14 +5,14 @@
    1. Wake Early College of Information and Biotechnologies
    2. which then goes with Wake Technical Community College
 2. she is a september baby (***best month ever by the way***)
-3. she plays guitar *(kind of badly though)*
+3. she plays guitar (*kind of badly though*)
    1. beaches by beabadoobee
    2. eres tu by carla morrison
    3. mr. postman by the beatles
    4. and i love her by the beatles
    5. sweet boy by malcolm todd
    6. coffee by beabadoobee
-5. she is determined *most of the time*...
+5. she is determined (*most of the time...*)
 
 ## key points of mia
 mia is...
@@ -41,9 +41,9 @@ if you like, then thank you!!
 if you don't, just don't say a word... *shush*
 
 ### things she likes
-|  music  |  shows  |  films  |  genres  |
+|  **music**  |  **shows**  |  **films**  |  **genres**  |
 |:--------|:--------|:--------|:---------|
-|stray kids      |toilet bound hanako kun     |children of the sea     |k-pop     |
-|beabadoobee      |cowboy bebop     |little women |indie     |
-|aespa    |my little pony      |lego batman  |jazz      |
+|*stray kids*      |*toilet bound hanako kun*     |*children of the sea*     |*k-pop*     |
+|*beabadoobee*      |*cowboy bebop*     |*little women* |*indie*     |
+|*aespa*    |*my little pony*      |*lego batman*  |*jazz*      |
 
