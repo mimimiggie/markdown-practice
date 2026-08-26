@@ -28,5 +28,5 @@ mia is...
 ### her letterboxd
 *not super active, i suck at watching shows/films*
 
-! [mia's letterboxd](./letterboxd ss.png)
+! [mia's letterboxd](letterboxd ss.png)
 
