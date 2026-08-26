@@ -30,4 +30,6 @@ mia is...
 ![mia's letterboxd](./letterboxd-ss.png)
 
 ### her spotify
-[mia's amazing spotify](https://open.spotify.com/user/313e6ief63uprdjensmxhmhvnvdu?si=761eb6e031c144b9)
+[mia's amazing spotify](https://open.spotify.com/user/313e6ief63uprdjensmxhmhvnvdu?si=761eb6e031c144b9)  
+if you like, then thank you!!  
+if you don't, just don't say a word... *shush*
