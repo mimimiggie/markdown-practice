@@ -8,11 +8,20 @@
 3. she plays guitar *(kinda badly though)*
 4. she is deteminded *most of the time*...
 
-## a preview of mia
+## key points of mia
 mia is...
 - a girl
+- a penguin lover
 - a music lover
-- a write (occasionally)
+- a writer (occasionally)
 - a stalker (just to friends)
+
+### what do you share in common with her?
+- [] a girl
+- [] a penguin lover
+- [] a music lover
+- [] a writer (occasionally)
+- [] a stalker (just to friends)
   
 # things of mia
+
