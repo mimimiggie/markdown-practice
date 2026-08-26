@@ -6,7 +6,10 @@
    2. which then goes with Wake Technical Community College
 2. she is a september baby (***best month ever by the way***)
 3. she plays guitar *(kinda badly though)*
-4. she is deteminded *most of the time*...
+   1. beaches by beabadoobee
+   2. eres tu by carla morrison
+   3. 
+5. she is deteminded *most of the time*...
 
 ## key points of mia
 mia is...
