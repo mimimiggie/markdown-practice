@@ -45,7 +45,7 @@ if you don't, just don't say a word... *shush*
 |:--------|:--------|:--------|:---------|
 |*stray kids*      |*toilet bound hanako kun*     |*children of the sea*     |*k-pop*     |
 |*beabadoobee*      |*cowboy bebop*     |*little women* |*indie*     |
-|*aespa*    |*my little pony*      |*lego batman*  |*jazz*      |
+|*aespa*    |*a sign of affection*      |*ride your wave*  |*jazz*      |
 
 ### code nation
 ```
