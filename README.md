@@ -28,6 +28,7 @@ mia is...
 - [ ] a music lover
 - [ ] a writer (occasionally)
 - [ ] a stalker (just to friends)
+- [x] none 
   
 # things of mia
 
