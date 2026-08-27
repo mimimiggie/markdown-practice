@@ -47,3 +47,8 @@ if you don't, just don't say a word... *shush*
 |*beabadoobee*      |*cowboy bebop*     |*little women* |*indie*     |
 |*aespa*    |*my little pony*      |*lego batman*  |*jazz*      |
 
+### code nation
+```
+print("i suck at coding")
+```
+
