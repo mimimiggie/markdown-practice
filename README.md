@@ -1,4 +1,4 @@
-# what is mia?
+# the study if miology
 
 ## simple information
 1. mia is a high school student
