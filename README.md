@@ -1,4 +1,4 @@
-# the study if miology
+# the study of miology
 
 ## simple information
 1. mia is a high school student
